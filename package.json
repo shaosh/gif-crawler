@@ -1,0 +1,13 @@
+{
+  "name": "gifCrawler",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.72.0"
+  }
+}
